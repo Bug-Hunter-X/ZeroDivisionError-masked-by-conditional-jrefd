@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error in Python: a ZeroDivisionError that's only triggered under a specific condition. The code contains a function that attempts to divide by zero if the input is 0.  While seemingly simple, such errors can be tricky to debug if the condition is not immediately apparent or if the error handling isn't robust enough.
